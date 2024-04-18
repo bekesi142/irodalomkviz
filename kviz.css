@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #d3d3d3;
+}
+
+.kvizAblak {
+    border-radius: 50px;
+    height: 1000px;
+    margin: 20px auto;
+    width: 80%;
+    text-align: center;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.banner {
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.banner h1 {
+    font-size: 20px;
+    margin: 0;
+}
+
+.buttons {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.scroll-btn {
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+
+
+/* Medialekérdezés a nagyobb képernyőkhöz */
+@media screen and (min-width: 768px) {
+    .banner h1 {
+        font-size: 24px;
+    }
+}
