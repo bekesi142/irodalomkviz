@@ -1,12 +1,12 @@
-[18]szereplőkvíz;Hamlet;Dán királyfi;
-[18]szereplőkvíz;Hamlet apja;Dánia volt királya;
-[18]szereplőkvíz;Claudius;Hamlet nagybátyja;
-[18]szereplőkvíz;Gertrud;Hamlet megözvegyült anyja;
-[18]szereplőkvíz;Polonius;A király tanácsadója;
-[18]szereplőkvíz;Ophelia;Hamlet szerelme;
-[18]szereplőkvíz;Laertes;Polonius fia;
-[18]szereplőkvíz;Horatio;Hamlet tanácsadója, barátja;
-[18]szereplőkvíz;Fortinbras;Norvégia trónörököse;
+[18]szereplőkvíz;Hamlet;Dán királyfi;hamlet.png;
+[18]szereplőkvíz;Hamlet apja;Dánia volt királya;oreghamlet.png;
+[18]szereplőkvíz;Claudius;Hamlet nagybátyja;claudius.png;
+[18]szereplőkvíz;Gertrud;Hamlet megözvegyült anyja;gertrud.png;
+[18]szereplőkvíz;Polonius;A király tanácsadója;polonius.png;
+[18]szereplőkvíz;Ophelia;Hamlet szerelme;ophelia.png;
+[18]szereplőkvíz;Laertes;Polonius fia;laertes.png;
+[18]szereplőkvíz;Horatio;Hamlet tanácsadója, barátja;horatio.png;
+[18]szereplőkvíz;Fortinbras;Norvégia trónörököse;fortinbras.png;
 
 [18]hogyhalmegkvíz;Hamlet;Párbajban;
 [18]hogyhalmegkvíz;Hamlet apja;Megmérgezik;
@@ -25,11 +25,11 @@
 [18]tulajdonságkvíz;Horatio;Hűséges;
 [18]tulajdonságkvíz;Laertes;Forrófejű;
  
-[ 9]melyikmubenszerepel;Bede Anna tartozása;Bede Erzsi;
-[ 9]melyikmubenszerepel;Péri lányok szép hajáról;Péri Kata;
-[ 9]melyikmubenszerepel;Timár Zsófi özvegysége;Rögi Mihály;
-[ 9]melyikmubenszerepel;A bágyi csoda;Vér Klára;
-[ 9]melyikmubenszerepel;A néhai bárány;Csuri Jóska;
+[ 9]melyikmubenszerepel;Bede Anna tartozása;Bede Erzsi;bedeannatartozasa.png;
+[ 9]melyikmubenszerepel;Péri lányok szép hajáról;Péri Kata;perilanyok.png;
+[ 9]melyikmubenszerepel;Timár Zsófi özvegysége;Rögi Mihály;timarzsofi.png;
+[ 9]melyikmubenszerepel;A bágyi csoda;Vér Klára;bagyicsoda.png;
+[ 9]melyikmubenszerepel;A néhai bárány;Csuri Jóska;nehaibari.png;
 
 [ 3]mikortortent;Megszületett;1877;
 [ 3]mikortortent;Összeházasodik;1915;
@@ -37,11 +37,11 @@
 [ 3]mikortortent;Megírja a Lédával a bálbant;1907;
 [ 3]mikortortnet;Megírja a Héja-nász az avaront;1906;
 
-[ 3]melyikki;Léda;Brüll Adél;
-[ 3]melyikki;Csinszka;Boncza Berta;
-[ 3]melyikki;anyja;Pásztor Mária;
-[ 3]melyikki;első szerelme, Zsóka;Friedmann Erzsike;
-[ 3]melyikki;halálának oka;Mihályi Rozália;
+[ 3]melyikki;Léda;Brüll Adél;leda1.png;leda2.png;leda3.png;
+[ 3]melyikki;Csinszka;Boncza Berta;csinszka.png;
+[ 3]melyikki;anyja;Pásztor Mária;pasztormaria.png;
+[ 3]melyikki;első szerelme, Zsóka;Friedmann Erzsike;zsoka.png;
+[ 3]melyikki;halálának oka;Mihályi Rozália;szifilisz.png;
 
 
 
