@@ -1,15 +1,10 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #d3d3d3;
-}
-
-.kvizAblak {
-    border-radius: 50px;
-    height: 1000px;
-    margin: 20px auto;
-    width: 80%;
-    text-align: center;
+    display: grid;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(85,4,191,1) 50%, rgba(0,212,255,1) 100%);
+    
 }
 
 header {
@@ -29,22 +24,43 @@ header {
     margin: 0;
 }
 
-.buttons {
-    text-align: center;
-    margin-top: 20px;
+.gombok {
+    display: inline;
+    font-size: large;
+    border-radius: 5px;
+    border: 3px solid #333;
+    margin: auto;
+    margin-top: 30px;
+    background-color: transparent;
+    color: white;
 }
-
-.scroll-btn {
-    padding: 10px 20px;
-    margin: 5px;
-    cursor: pointer;
+.gombok:hover {
+    background-color: cyan;
+    border: #333 3px solid;
+    color: black !important;
 }
-
-
+.parent {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 5px;
+    grid-row-gap: 0px;
+    color: white;
+}
+a:link { text-decoration: none; color: inherit; }
+a:visited { text-decoration: none; color: inherit; }
+a:hover { text-decoration: none; color: inherit; }
+a:active { text-decoration: none; color: inherit; }
 
 /* Medialekérdezés a nagyobb képernyőkhöz */
 @media screen and (min-width: 768px) {
     .banner h1 {
         font-size: 24px;
+    }
+    .parent {
+        grid-template-columns: repeat(3, 1fr);
+        margin-top: 350px;
+        font-size: larger;
+        color: white;
     }
 }
